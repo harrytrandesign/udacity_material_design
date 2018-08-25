@@ -5,6 +5,9 @@
     <dimen name="list_side_margin">4dp</dimen>
     <dimen name="list_toolbar_side_margin">0dp</dimen>
     <integer name="list_column_count">2</integer>
+    <integer name="grid_count">1</integer>
+
+    <!--<dimen name="thumbnail_title_text_size">24sp</dimen>-->
 
     <!-- detail -->
     <bool name="detail_is_card">false</bool>
@@ -18,4 +21,7 @@
     <dimen name="detail_body_bottom_margin">88dp</dimen>
 
     <dimen name="detail_collapsible_height">450dp</dimen>
+
+    <dimen name="header_height">300dp</dimen>
+
 </resources>
