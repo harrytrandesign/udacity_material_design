@@ -1,7 +1,7 @@
 <resources>
     <!-- detail -->
     <dimen name="detail_photo_height">224dp</dimen>
-    <dimen name="detail_inner_horiz_margin">112dp</dimen>
+    <dimen name="detail_inner_horiz_margin">16dp</dimen>
     <integer name="grid_count">3</integer>
 
     <dimen name="header_height">200dp</dimen>
