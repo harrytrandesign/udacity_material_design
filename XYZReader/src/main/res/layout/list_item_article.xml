@@ -17,14 +17,6 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <!--suppress AndroidLintContentDescription -->
-        <!--<com.example.xyzreader.ui.DynamicHeightNetworkImageView-->
-        <!--android:id="@+id/thumbnail"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="@dimen/book_cover_album_art_height"-->
-        <!--android:background="@color/photo_placeholder"-->
-        <!--android:scaleType="centerCrop"/>-->
-
         <com.example.xyzreader.helper.TwoThirdsImageView
             android:id="@+id/thumbnail"
             android:layout_width="match_parent"
